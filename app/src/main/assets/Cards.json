@@ -1,0 +1,34 @@
+[
+  {
+
+    "id" : "000001A",
+    "designer_id" : "000001D",
+    "image_url" : "https://asset.holidaycardsapp.com/assets/card/t_bdnom_043-afbc85ae1b2674a57998f365abbf1dbd.png",
+    "catagory" : "BIRTHDAY",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+
+    "id" : "000002A",
+    "designer_id" : "000002D",
+    "image_url" : "https://asset.holidaycardsapp.com/assets/card/j_newad_124-8487ccf02839a10684b2bbff9b599b63.png",
+    "catagory" : "NEW_YEAR",
+    "description" : "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  },
+  {
+
+    "id" : "000003A",
+    "designer_id" : "000002D",
+    "image_url" : "https://shop.woodlandtrust.org.uk/content/images/thumbs/000/0003143_poinsettia-christmas-cards_550.jpeg",
+    "catagory" : "CHRISTMAS",
+    "description" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,"
+  },
+  {
+
+    "id" : "000004A",
+    "designer_id" : "000002D",
+    "image_url" : "https://i.ytimg.com/vi/UW0NKt0aY-M/maxresdefault.jpg",
+    "catagory" : "BIRTHDAY",
+    "description" : "looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+  }
+]

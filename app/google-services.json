@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "272052355427",
+    "firebase_url": "https://happycelebrate-95543.firebaseio.com",
+    "project_id": "happycelebrate-95543",
+    "storage_bucket": "happycelebrate-95543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272052355427:android:9109577a981c27d0e39356",
+        "android_client_info": {
+          "package_name": "com.uom.happycelebrate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272052355427-r2633jq1ub3d7sn371bkuo265fatd8a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXw-7MWqvodiR00nWfOhhVKhfX6ZIKAL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272052355427-r2633jq1ub3d7sn371bkuo265fatd8a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
